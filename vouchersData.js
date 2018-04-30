@@ -19,7 +19,7 @@ var data = {
       name: "iLearnPiano"
     }
   ],
-  vochers: [
+  vouchers: [
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/001/006/small/stapler-7tnhr0.jpg",
       name: "دیجی کالا",
