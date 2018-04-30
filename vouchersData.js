@@ -1,7 +1,8 @@
 
 var data = {
-  title : "روز معلم مبارک",
+  mainTitle : "روز معلم مبارک",
   description: "به مناسبت روز معلم کد تخفیف زیر برای شما برای شما برای شما",
+  applicationTitle: "برنامه‌های پیشنهادی سیب اپ",
   applications: [
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
