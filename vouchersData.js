@@ -7,6 +7,16 @@ var data = {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
       link: "https://new.sibapp.com/applications/ilearnpiano",
       name: "iLearnPiano"
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
+      link: "https://new.sibapp.com/applications/ilearnpiano",
+      name: "iLearnPiano"
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
+      link: "https://new.sibapp.com/applications/ilearnpiano",
+      name: "iLearnPiano"
     }
   ],
   vochers: [
@@ -15,7 +25,12 @@ var data = {
       name: "دیجی کالا",
       description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
       code: "SIBAPP-DIGI"
-
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/001/006/small/stapler-7tnhr0.jpg",
+      name: "دیجی کالا",
+      description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
+      code: ""
     }
   ]
 
