@@ -17,6 +17,11 @@ var data = {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
       link: "https://new.sibapp.com/applications/ilearnpiano",
       name: "iLearnPiano"
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
+      link: "https://new.sibapp.com/applications/ilearnpiano",
+      name: "iLearnPiano"
     }
   ],
   vouchers: [
