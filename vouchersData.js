@@ -37,18 +37,19 @@ var data = {
       description: "کاهش قیمت پکیج آموزشی از 14500 تومان به 10000 تومان",
       code: ""
     },
-   { 
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
       name: "انگلیسی در سفر",
       description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
-      code: "" 
-  },
-  {
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
       name: "انگلیسی در سفر",
       description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
-      code: "" 
-  }
+      code: ""
+    }
 
-    
-];
+
+  ]
+};
