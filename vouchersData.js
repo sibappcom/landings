@@ -22,7 +22,13 @@ var data = {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/003/688/small/stapler-rrdmlp.jpg",
       link: "https://new.sibapp.com/applications/wikilinks",
       name: "WikiLinks"
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/503/small/stapler-1iqm3m.jpg",
+      link: "https://new.sibapp.com/applications/slmb4iphone",
+      name: "reading trainer for iphone"
     }
+
   ],
   vouchers: [
     {
@@ -32,24 +38,30 @@ var data = {
       code: ""
     },
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/091/small/Haya_icon.png",
-      name: "آموزش مکالمه ۳۰+ زبان هایا | آفلاین + تلفظ",
-      description: "کاهش قیمت پکیج آموزشی از 14500 تومان به 10000 تومان",
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
+      name: "استاد کت",
+      description: "50% تخفیف بر روی کلیه پکیج ها",
       code: ""
     },
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
-      name: "انگلیسی در سفر",
-      description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
-      code: ""
+      name: "تخته سیاه",
+      description: "کد تخفیف را هنگام پرداخت وارد نمایید",
+      code: "Sibapp-2018"
     },
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
-      name: "انگلیسی در سفر",
-      description: "کد تخفیف فلان را حین پرداخت وارد نمایید",
+      name: "یادیز",
+      description: "کد تخفیف را هنگام پرداخت وارد نمایید",
+      code: "Sibapp1397"
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
+      name: "قبولی",
+      description: "به 10 نفر اولی که در هر روز اپ را دانلود کنند پکیج رایگان تعلق میگیرد",
       code: ""
     }
-
-
   ]
+
+
 };
