@@ -84,7 +84,7 @@ var data = {
       name: "Juddings Today"
     },
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/005/712/small/stapler-veabc6.jpg",
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/000/016/small/stapler-2ibuvn.jpg",
       link: "https://new.sibapp.com/applications/ilearnpiano",
       name: "iLearn Piano"
     }
