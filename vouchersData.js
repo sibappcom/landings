@@ -1,6 +1,6 @@
 var data = {
   mainTitle : "روز معلم مبارک",
-  description: "پیشنهادات شگفت‌انگیز به‌مناسبت روز معلم",
+  description: "پیشنهادات شگفت‌انگیز به مناسبت روز معلم",
   applicationTitle: "برنامه‌های آموزشی رایگان شده در سیب‌اپ",
   applications: [
     {
