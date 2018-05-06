@@ -1,7 +1,7 @@
 var data = {
   mainTitle : "تخفیف‌های داغ سیب‌اپ",
   description: "تخفیف‌های ویژه کاربران سیب‌اپ",
-  headerImage: "https://new.sibapp.com/landing/images/header2.png",
+  headerImage: "https://cdn.rawgit.com/sibappcom/landings/master/images/header3.png",
   
   vouchers: [
     {
