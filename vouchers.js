@@ -1,5 +1,5 @@
 var data = {
-  mainTitle : "تخفیف‌های دااغ سیب‌اپ",
+  mainTitle : "تخفیف‌های داغ سیب‌اپ",
   description: "تخفیف‌های ویژه کاربران سیب‌اپ",
   headerImage: "https://new.sibapp.com/landing/images/header2.png",
   
