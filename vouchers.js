@@ -5,11 +5,11 @@ var data = {
   
   vouchers: [
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/009/691/small/b3r3djm7otd67tgbkxib.jpg",
-      name: "نصرت",
-      slogan:"تجربه یک خرید هیجان انگیز",
-      link: "https://new.sibapp.com/applications/%D9%86%D8%B3%D8%AE%D9%87-%DA%A9%D8%A7%D9%85%D9%84-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B2%D8%A8%D8%A7%D9%86-%D9%86%D8%B5%D8%B1%D8%AA",
-      description: "20% تخفیف روی پکیج آموزشی ",
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/687/small/iTunesArtwork@1x.png",
+      name: "آچاره",
+      slogan:"سامانه هوشمند درخواست خدمات",
+      link: "https://new.sibapp.com/applications/achare",
+      description: "پس از وارد کردن جزییات سفارش کد را در بخش کد تخفیف وارد نمایید۵۰‎٪ تخفیف تا سقف ۲۵ هزارتومان",
       code: ""
     },
     {
