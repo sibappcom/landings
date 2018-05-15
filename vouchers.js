@@ -17,7 +17,7 @@ var data = {
       name: "ریحون",
       slogan:"سامانه سفارش آنلاین غذا",
       link: "https://new.sibapp.com/applications/reyhoon",
-      description: "کد تخفیف HOTReyhoonSB (۱۰ هزارتومان تخفیف برای سفارش‌های بالای ۲۰ هزار تومان برای اولین سفارش)",
+      description: "۱۰ هزار تومان تخفیف با کد HOTReyhoonSB برای سفارش‌های بالای ۲۰هزار تومان برای اولین سفارش",
       code: ""
     },
     {
