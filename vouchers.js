@@ -36,6 +36,14 @@ var data = {
       link: "https://new.sibapp.com/applications/bamilo",
       description: "۱۵هزار تومان برای خرید های بالای ۸۰ هزار تومان با کد تخفیف bml_sib15k",
       code: ""
+    },
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/151/small/Washlin-Dry-Cleaning-Logo.png",
+      name: "خشکشویی آنلاین واش لین",
+      slogan:"واش لین بزرگترین خشکشویی آنلاین",
+      link: "https://new.sibapp.com/applications/%D9%88%D8%A7%D8%B4-%D9%84%DB%8C%D9%86-1",
+      description: " ۲۰% تخفیف با کد WlinSib برای اولین سفارش ",
+      code: ""
     }
   ]
 };
