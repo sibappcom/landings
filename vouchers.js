@@ -9,46 +9,24 @@ var data = {
       name: "آچاره",
       slogan:"سامانه هوشمند درخواست خدمات",
       link: "https://new.sibapp.com/applications/achare",
-      description: "پس از وارد کردن جزییات سفارش، کد sibapp را در بخش کد تخفیف وارد نمایید (۵۰‎٪ تخفیف تا سقف ۲۰ هزار تومان)",
+      description: "کد تخفیف PKL110 برای سفارش های بیش‌تر از ۱۰۰ هزار تومان شما ",
       code: ""
     },
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/607/small/Ostadcat%20(Profile)%20copy.png",
-      name: "استاد کت",
-      slogan:"تجربه یک خرید هیجان انگیز",
-      link: "https://new.sibapp.com/applications/ostadcat",
-      description: "50% تخفیف بر روی کلیه پکیج ها",
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/009/607/small/App%20Icon-01.png",
+      name: "ریحون",
+      slogan:"سامانه سفارش آنلاین غذا",
+      link: "https://new.sibapp.com/applications/reyhoon",
+      description: "کد تخفیف HOTReyhoonSB (۱۰ هزارتومان تخفیف برای سفارش‌های بالای ۲۰ هزار تومان برای اولین سفارش)",
       code: ""
     },
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/805/small/ic_launcher.png",
-      name: "تخته سیاه",
-      slogan:"تجربه یک خرید هیجان انگیز",
-      link: "https://new.sibapp.com/applications/takhtesiyaah",
-      description: "کد تخفیف را هنگام پرداخت وارد نمایید",
-      code: "Sibapp-2018"
-    },
-    {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/418/small/appicon60x60at3.png",
-      name: "یادیز",
-      slogan:"تجربه یک خرید هیجان انگیز",
-      link: "https://new.sibapp.com/applications/yadease",
-      description: "کد تخفیف را هنگام پرداخت وارد نمایید",
-      code: "Sibapp1397"
-    },
-    {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/012/958/small/icon_final.png",
-      name: "قبولی",
-      slogan:"تجربه یک خرید هیجان انگیز",
-      link: "https://new.sibapp.com/applications/ghabouli",
-      description: "به 10 نفر اولی که در هر روز اپ را دانلود کنند پکیج رایگان تعلق میگیرد",
+      name: "خشکشویی آنلاین پاکلین",
+      slogan:"پاکلین همراه پاک شما",
+      link: "https://new.sibapp.com/applications/paklean",
+      description: "کد تخفیف ده درصدی PKL110 برای سفارش های بیش‌تر از ۱۰۰ هزار تومان شما",
       code: ""
     }
   ]
 };
-
-
-
-
-
-
