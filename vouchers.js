@@ -21,7 +21,7 @@ var data = {
       code: ""
     },
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/805/small/ic_launcher.png",
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/377/small/asjdashjdvashjb.png",
       name: "خشکشویی آنلاین پاکلین",
       slogan:"پاکلین همراه پاک شما",
       link: "https://new.sibapp.com/applications/paklean",
