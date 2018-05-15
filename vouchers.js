@@ -28,5 +28,14 @@ var data = {
       description: "کد تخفیف ده درصدی PKL110 برای سفارش های بیش‌تر از ۱۰۰ هزار تومان شما",
       code: ""
     }
+    ,
+    {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/438/small/app-icon-512x512.png",
+      name: "بامیلو | Bamilo",
+      slogan:"خرید آنلاین",
+      link: "https://new.sibapp.com/applications/bamilo",
+      description: "۱۵هزار تومان برای خرید های بالای ۸۰ هزار تومان با کد تخفیف bml_sib15k",
+      code: ""
+    }
   ]
 };
