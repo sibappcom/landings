@@ -19,14 +19,6 @@ var data = {
       link: "https://new.sibapp.com/applications/reyhoon",
       description: "۱۰ هزار تومان تخفیف با کد HOTReyhoonSB برای سفارش‌های بالای ۲۰هزار تومان برای اولین سفارش",
       code: ""
-    },
-    {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/377/small/asjdashjdvashjb.png",
-      name: "خشکشویی آنلاین پاکلین",
-      slogan:"پاکلین همراه پاک شما",
-      link: "https://new.sibapp.com/applications/paklean",
-      description: "کد تخفیف ده درصدی PKL110 برای سفارش های بیش‌تر از ۱۰۰ هزار تومان شما",
-      code: ""
     }
     ,
     {
