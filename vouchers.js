@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/139/small/512%20(2).png",
+      name: "بیدزیلا",
+      slogan:"تجربه یک خرید هیجان انگیز",
+      link: "https://new.sibapp.com/applications/bidzila",
+      description: " 20 هزار تومان شارژ کیف پول بلافاصله پس از ثبت نام با کد معرف 3100 ",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/687/small/iTunesArtwork@1x.png",
       name: "آچاره",
       slogan:"سامانه هوشمند درخواست خدمات",
