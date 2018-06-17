@@ -13,6 +13,14 @@ var data = {
       code: ""
     },
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/002/083/small/stapler-qlr1tf.jpg",
+      name: "عکس پرینت",
+      slogan:"چاپ آنلاین، آسان و خلاقانه عکس",
+      link: "https://new.sibapp.com/applications/axprint",
+      description: "10هزار تومان برای خریدهای بالای 100هزار تومان با کد تخفیف AX_SIB0322",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/687/small/iTunesArtwork@1x.png",
       name: "آچاره",
       slogan:"سامانه هوشمند درخواست خدمات",
