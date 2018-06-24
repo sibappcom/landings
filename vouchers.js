@@ -38,14 +38,6 @@ var data = {
     }
     ,
     {
-      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/010/438/small/app-icon-512x512.png",
-      name: "بامیلو | Bamilo",
-      slogan:"خرید آنلاین",
-      link: "https://new.sibapp.com/applications/bamilo",
-      description: "۱۵هزار تومان برای خرید های بالای ۸۰ هزار تومان با کد تخفیف bml_sib15k",
-      code: ""
-    },
-    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/151/small/Washlin-Dry-Cleaning-Logo.png",
       name: "خشکشویی آنلاین واش لین",
       slogan:"واش لین بزرگترین خشکشویی آنلاین",
