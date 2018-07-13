@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/469/small/pooltiket2.jpg",
+      name: "پول تیکت | Pool ticket ( رزرو بلیط استخر و پارک آبی)",
+      slogan:"آنلاین شیرجه بزن",
+      link: "https://new.sibapp.com/applications/poolticket",
+      description: "30% تخفیف بلیط استخر و پارک آبی تا سقف 3000 تومان (کد: poolapp1)",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/014/139/small/512%20(2).png",
       name: "بیدزیلا",
       slogan:"تجربه یک خرید هیجان انگیز",
