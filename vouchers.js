@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/012/965/small/plak%20logo.png",
+      name: "پلاک | Pelak",
+      slogan:"با پلاک هر خدمتی در محل شما",
+      link: "https://new.sibapp.com/applications/pelak-1",
+      description: "10 هزار تومان تخفیف با کد Sibapp10 روی تمامی خدمات شامل کارواش، نظافت، تعمیرات و ... .",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/469/small/pooltiket2.jpg",
       name: "پول تیکت | Pool ticket ( رزرو بلیط استخر و پارک آبی)",
       slogan:"آنلاین شیرجه بزن",
