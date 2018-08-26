@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/016/134/small/icon-512x512.png",
+      name: "اسنپ مارکت | Snappmarket",
+      slogan:"از هایپراستار آنلاین خرید کنید",
+      link: "https://new.sibapp.com/applications/snappmarket",
+      description: "کد تخفیف : SibApp",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/012/965/small/plak%20logo.png",
       name: "پلاک | Pelak",
       slogan:"با پلاک هر خدمتی در محل شما",
