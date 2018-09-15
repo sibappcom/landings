@@ -5,6 +5,13 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/369/small/iTunesArtwork@2x.png",
+      name: "Gol Gift",
+      slogan:"بى‌بهانه خوشحال كنيد",
+      link: "https://new.sibapp.com/applications/golgift",
+      description: "كد تخفيف ١٠ درصد با كد sibapp",
+      code: ""
+    },{
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/016/134/small/icon-512x512.png",
       name: "اسنپ مارکت | Snappmarket",
       slogan:"از هایپراستار آنلاین خرید کنید",
