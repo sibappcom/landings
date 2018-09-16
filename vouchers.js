@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/885/small/Light@1x.jpg",
+      name: "چراغ سبز",
+      slogan:"گواهینامتو رایگان بگیر",
+      link: "https://new.sibapp.com/applications/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%A2%DB%8C%DB%8C%D9%86-%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D8%A7%D9%86%D9%86%D8%AF%DA%AF%DB%8C",
+      description: "تمام هزینه های گواهینامه ات با ما. از کد معرف FREECARD در هنگام خرید استفاده کنید و علاوه بر ۱۵‎٪ تخفیف خرید، شانس خود را در قرعه کشی ما امتحان کنید",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/369/small/iTunesArtwork@2x.png",
       name: "Gol Gift",
       slogan:"بى‌بهانه خوشحال كنيد",
