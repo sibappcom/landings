@@ -5,6 +5,14 @@ var data = {
   
   vouchers: [
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/001/006/small/stapler-7tnhr0.jpg",
+      name: "دیجیکالا | Digikala",
+      slogan:"بررسی، انتخاب و خرید آنلاین",
+      link: "https://www.digikala.com/landing/partnershipv-sibapp/",
+      description: "15.000 تومان تخفیف خرید از فروشگاه اینترنتی دیجی کالا تا پایان مهر ماه 97",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/885/small/Light@1x.jpg",
       name: "چراغ سبز",
       slogan:"گواهینامتو رایگان بگیر",
