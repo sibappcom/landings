@@ -12,6 +12,14 @@ var data = {
       description: "15.000 تومان تخفیف خرید از فروشگاه اینترنتی دیجی کالا تا پایان مهر ماه 97",
       code: ""
     },
+        {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/013/856/small/smart-banner-icon.png",
+      name: "تخفیفان | Takhfifan",
+      slogan:"ارزان‌تر لذت ببرید",
+      link: "https://new.sibapp.com/applications/takhfifan-1",
+      description: "10% تخفیف تا سقف 30هزار تومان با کد tksibapp اعتبار تا 15 آبان",
+      code: ""
+    },
     {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/885/small/Light@1x.jpg",
       name: "چراغ سبز",
