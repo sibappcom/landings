@@ -21,6 +21,14 @@ var data = {
       code: ""
     },
     {
+      icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/923/small/appIcon.png",
+      name: "هلسا خشکشویی هوشمند",
+      slogan:"خشکشویی های اطراف رو ببین، بهترین رو انتخاب کن",
+      link: "https://new.sibapp.com/applications/%D9%87%D9%84%D8%B3%D8%A7-%D8%AE%D8%B4%DA%A9%D8%B4%D9%88%DB%8C%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF",
+      description: "20000 تومان هدیه سفارش خشکشویی با هلسا با کد helsa2020",
+      code: ""
+    },
+    {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/015/885/small/Light@1x.jpg",
       name: "چراغ سبز",
       slogan:"گواهینامتو رایگان بگیر",
