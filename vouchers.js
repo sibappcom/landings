@@ -8,8 +8,8 @@ var data = {
       icon: "https://cdn.sibapp.com/attachments/Sibapp/Domains/ApplicationDomain/Models/Application/icons/000/001/006/small/stapler-7tnhr0.jpg",
       name: "دیجیکالا | Digikala",
       slogan:"بررسی، انتخاب و خرید آنلاین",
-      link: "https://www.digikala.com/landing/partnershipv-sibapp/",
-      description: "15.000 تومان تخفیف خرید از فروشگاه اینترنتی دیجی کالا تا پایان مهر ماه 97",
+      link: "dgka.la/1HFTSB",
+      description: "کد تخفیف 10% برای خریدهای بیشتر از 100 هزار تومان مختص اولین خرید مشتریان جدید دیجی کالا(سقف تخفیف 30 هزار تومان)",
       code: ""
     },
         {
